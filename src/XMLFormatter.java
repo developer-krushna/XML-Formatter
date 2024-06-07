@@ -75,7 +75,7 @@ public class XMLFormatter {
 		OPTION_C,
 		DEFAULT
 	}
-	
+
 	/*
 	 Author @developer-krushna
 	 
